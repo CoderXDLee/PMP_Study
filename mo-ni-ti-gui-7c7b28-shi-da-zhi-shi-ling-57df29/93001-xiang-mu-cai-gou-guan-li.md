@@ -1,5 +1,5 @@
 ---
-description: PMBOK 第十二章
+Description: PMBOK 第十二章
 ---
 
 # 9 - 项目采购管理

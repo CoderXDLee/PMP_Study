@@ -1,5 +1,5 @@
 ---
-description: PMBOK 第九章
+Description: PMBOK 第九章
 ---
 
 # 6 - 项目资源管理
