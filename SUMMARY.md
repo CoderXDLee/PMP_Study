@@ -13,6 +13,4 @@
   * [6 - 项目资源管理](mo-ni-ti-gui-7c7b28-shi-da-zhi-shi-ling-57df29/63001-xiang-mu-zi-yuan-guan-li.md)
   * [7 - 项目沟通管理](mo-ni-ti-gui-7c7b28-shi-da-zhi-shi-ling-57df29/73001-xiang-mu-gou-tong-guan-li.md)
   * [8 - 项目风险管理](mo-ni-ti-gui-7c7b28-shi-da-zhi-shi-ling-57df29/83001-xiang-mu-feng-xian-guan-li.md)
-  * [9 - 项目采购管理](mo-ni-ti-gui-7c7b28-shi-da-zhi-shi-ling-57df29/93001-xiang-mu-cai-gou-guan-li.md)
-  * 0 - 项目管理基础
 
