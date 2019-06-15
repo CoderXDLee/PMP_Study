@@ -1,26 +1,26 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [PMP\(第六版\)备考](chapter1.md)
-  * [模拟题一](PMP%28第六版%29备考/模拟题一.md)
-  * 模拟题二
-  * 模拟题三
-  * 模拟题四
-  * 模拟题五
-  * 模拟题六
-  * [模拟题七](PMP%28第六版%29备考/模拟题七.md)
-  * [模拟题八](PMP%28第六版%29备考/mo-ni-ti-ba.md)
-* [模拟题归类\(十大知识领域\)](mo-ni-ti-gui-7c7b28-shi-da-zhi-shi-ling-57df29/README.md)
-  * [0 - 项目管理基础](模拟题归类%28十大知识领域%29/0-项目管理基础.md)
-  * [1 - 项目整合管理](模拟题归类%28十大知识领域%29/1-项目整合管理.md)
-  * [2 - 项目范围管理](模拟题归类%28十大知识领域%29/2-项目范围管理.md)
-  * [3 - 项目进度管理](模拟题归类%28十大知识领域%29/3-项目进度管理.md)
-  * [4 - 项目成本管理](模拟题归类%28十大知识领域%29/4-项目成本管理.md)
-  * [5 - 项目质量管理](模拟题归类%28十大知识领域%29/5-项目质量管理.md)
-  * [6 - 项目资源管理](模拟题归类%28十大知识领域%29/6-项目资源管理.md)
-  * [7 - 项目沟通管理](模拟题归类%28十大知识领域%29/7-项目沟通管理.md)
-  * [8 - 项目风险管理](模拟题归类%28十大知识领域%29/8-项目风险管理.md)
-  * [9 - 项目采购管理](模拟题归类%28十大知识领域%29/9-项目采购管理.md)
-  * [10 - 项目相关方管理](模拟题归类%28十大知识领域%29/10-项目相关方管理.md)
-  * [变更控制流程](模拟题归类%28十大知识领域%29/bian-geng-kong-zhi-liu-cheng.md)
+* [PMP\(第六版\)备考](pmp-di-liu-ban-bei-kao/README.md)
+  * [模拟题一](pmp-di-liu-ban-bei-kao/mo-ni-ti-yi.md)
+  * [模拟题二](pmp-di-liu-ban-bei-kao/mo-ni-ti-er.md)
+  * [模拟题三](pmp-di-liu-ban-bei-kao/mo-ni-ti-san.md)
+  * [模拟题四](pmp-di-liu-ban-bei-kao/mo-ni-ti-si.md)
+  * [模拟题五](pmp-di-liu-ban-bei-kao/mo-ni-ti-wu.md)
+  * [模拟题六](pmp-di-liu-ban-bei-kao/mo-ni-ti-liu.md)
+  * [模拟题七](pmp-di-liu-ban-bei-kao/mo-ni-ti-qi.md)
+  * [模拟题八](pmp-di-liu-ban-bei-kao/mo-ni-ti-ba.md)
+* [模拟题归类\(十大知识领域\)](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/README.md)
+  * [0 - 项目管理基础](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/0-xiang-mu-guan-li-ji-chu.md)
+  * [1 - 项目整合管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/1-xiang-mu-zheng-he-guan-li.md)
+  * [2 - 项目范围管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/2-xiang-mu-fan-wei-guan-li.md)
+  * [3 - 项目进度管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/3-xiang-mu-jin-du-guan-li.md)
+  * [4 - 项目成本管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/4-xiang-mu-cheng-ben-guan-li.md)
+  * [5 - 项目质量管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/5-xiang-mu-zhi-liang-guan-li.md)
+  * [6 - 项目资源管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/6-xiang-mu-zi-yuan-guan-li.md)
+  * [7 - 项目沟通管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/7-xiang-mu-gou-tong-guan-li.md)
+  * [8 - 项目风险管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/8-xiang-mu-feng-xian-guan-li.md)
+  * [9 - 项目采购管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/9-xiang-mu-cai-gou-guan-li.md)
+  * [10 - 项目相关方管理](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/10-xiang-mu-xiang-guan-fang-guan-li.md)
+  * [变更控制流程](mo-ni-ti-gui-lei-shi-da-zhi-shi-ling-yu/bian-geng-kong-zhi-liu-cheng.md)
 
